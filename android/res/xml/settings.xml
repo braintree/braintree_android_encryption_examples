@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="MerchantServer" 
+        android:title="@string/merchant_server_title"
+        android:summary="@string/merchant_server_summary"
+        android:dialogTitle="@string/merchant_server_title" />
+</PreferenceScreen>

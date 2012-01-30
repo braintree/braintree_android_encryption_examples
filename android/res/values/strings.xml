@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Braintree Payments Example App</string>
+    
+    <string name="credit_card_label">Credit Card Number:</string>
+    <string name="expiration_date_label">Expiration Date:</string>
+    <string name="cvv_label">CVV:</string>
+    <string name="form_submit_label">Submit</string>
+    
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">Braintree Payments Settings</string>
+    <string name="merchant_server_title">Merchant Server URL</string>
+    <string name="merchant_server_summary">Enter your merchant server URL</string>
+
+</resources>

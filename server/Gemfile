@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+
+gem "braintree"
+gem "json"
+gem "shotgun"
+gem "sinatra"
+gem "rack-ssl"
